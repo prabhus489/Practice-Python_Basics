@@ -1,6 +1,6 @@
 print(f"------Iterating Over list------")
 #Iterating over  list
-sp_list = [1,2,3,4,5]
+sp_list = [1, 2, 3, 4, 5]
 for i in sp_list:
     print(i)
 
