@@ -1,5 +1,5 @@
-numbers=[1,1,1,1,1]
-newnumbers=[2,2,2,3,3]
-print(numbers+newnumbers)
+numbers = [1, 1, 1, 1, 1]
+new_numbers = [2, 2, 2, 3, 3]
+print(numbers + new_numbers)
 
-print(numbers*5)
+print(numbers * 5)
