@@ -12,7 +12,7 @@ for s in sp_string:
 
 print(f"------Iterating Over Dictionary------")
 # Iterating Over  Dictionary
-sp_dict = {"Name":"Prabhu", "PH No":7401256086, "EMP_ID":1323}
+sp_dict = {"Name": "Prabhu", "PH No": 7401256086, "EMP_ID": 1323}
 for key,value in sp_dict.items():
     print(key,value)
 
